@@ -25,7 +25,7 @@ This interactive Tableau dashboard explores key statistics and insights from the
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Yuvi2111/IPL-Analysis-Dashboard-Tableau/blob/main/Screenshot%202025-07-07%20182032.png)
 
 ---
 
